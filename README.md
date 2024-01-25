@@ -54,7 +54,7 @@ Run the code!
 
 ## Video of the project
 
-  [![Watch the video](https://img.youtube.com/vi/tnb9b2qEga4/maxresdefault.jpg)](https://youtu.be/tnb9b2qEga4)
+  [![Watch the video](https://img.youtube.com/vi/tnb9b2qEga4/hqdefault.jpg)](https://youtu.be/tnb9b2qEga4)
 
 
 
