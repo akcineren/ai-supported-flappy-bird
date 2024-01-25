@@ -52,4 +52,11 @@ Run the code!
   python main.py
 ```
 
+## Video of the project
+
+  [![Watch the video](https://img.youtube.com/vi/tnb9b2qEga4/maxresdefault.jpg)](https://youtu.be/tnb9b2qEga4)
+
+
+
+
   
