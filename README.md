@@ -56,6 +56,7 @@ Run the code!
 - You can adjust the config file to observe effects of parameters on learning process.
 - Population size can be reduced to achieve more generations and complex neural networks or can be increased to achieve less generations and more basic neural networks.
 - Pipe spawning speed and the velocity of the pipes on the x-axis can be increased for more challenging gameplay so model can learn something harder than the classic flappy bird.
+- Overall this project is a great tool for understanding the NEAT algorithm.
 
 ## Video of the project
 
