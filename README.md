@@ -1,5 +1,5 @@
 
-# flappy-bird
+# a,-supported-flappy-bird
 
 Reinforcement learning with NEAT framework used to generate a neural network that plays flappy bird.
 
